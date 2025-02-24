@@ -2,7 +2,7 @@
 
 ### Hi, I'm Nazir Rosas! 👋
 
-I’m a **Software Engineer** specializing in **fullstack development**, with  ** 3 years of experience** in the tech industry. My work focuses on combining frontend and backend technologies to deliver high-quality solutions.
+I’m a **Software Engineer** specializing in **fullstack development**, with  ** 4 years of experience** in the tech industry. My work focuses on combining frontend and backend technologies to deliver high-quality solutions.
 
 ### What I Do:
 - **Fullstack development**: Expertise in both **frontend** and **backend** development.
